@@ -1,1 +1,3 @@
-# Este es el ejercicio de evaluación final del módulo 2
+# Este es el ejercicio de evaluación final del módulo 2.
+Consta de 25 preguntas que se han realizado en un archivo SQL y que servirán para la evaluación de la comprensión y habilidades en relación a SQL.
+Se ha usado la base de datos SAKILA, que es una base de datos con diferentes tablas que contienen información sobre películas, actores, clientes, alquileres y más y se han utilizado para realizar consultas y análisis de datos en el contexto de una tienda de alquiler de películas.
